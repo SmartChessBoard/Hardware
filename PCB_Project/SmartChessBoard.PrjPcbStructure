@@ -1,6 +1,5 @@
-Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=LEDs.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power Management.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=LEDs.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Power Management.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=5
