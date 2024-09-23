@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=LEDs.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=LEDs.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Microcontroller and Power Management.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=WS2812B.SchDoc|SheetNumber=3
