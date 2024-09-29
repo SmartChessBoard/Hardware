@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=Microcontroller and Power Management.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Microcontroller and Power Management.SchDoc|FileName=WS2818B.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=MCU and Power Man.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU and Power Man.SchDoc|FileName=Reed Switches.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU and Power Man.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MCU and Power Man.SchDoc|FileName=WS2818B.SchDoc|SheetNumber=3
