@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=R1 Pin=IO12-1
+Removed Pin From Net: NetName=R2 Pin=IO13-1
+Removed Pin From Net: NetName=R3 Pin=IO14-1
+Removed Pin From Net: NetName=R4 Pin=IO15-1
+Removed Pin From Net: NetName=R5 Pin=IO16-1
+Removed Pin From Net: NetName=R6 Pin=IO17-1
+Removed Pin From Net: NetName=R7 Pin=IO18-1
+Removed Pin From Net: NetName=R8 Pin=IO19-1
+Removed Pin From Net: NetName=R9 Pin=IO20-1
+Removed Pin From Net: NetName=R10 Pin=IO21-1
+Removed Pin From Net: NetName=R11 Pin=IO22-1
+Removed Pin From Net: NetName=R12 Pin=IO23-1
+Removed Pin From Net: NetName=R13 Pin=IO24-1
+Removed Pin From Net: NetName=R14 Pin=IO25-1
+Removed Pin From Net: NetName=R15 Pin=IO26-1
+Removed Pin From Net: NetName=R16 Pin=IO27-1
+Removed Pin From Net: NetName=R13 Pin=IO29-1
+Removed Pin From Net: NetName=R5 Pin=IO30-1
+Removed Pin From Net: NetName=R14 Pin=IO31-1
+Removed Pin From Net: NetName=R6 Pin=IO32-1
+Removed Pin From Net: NetName=R15 Pin=IO34-1
+Removed Pin From Net: NetName=R7 Pin=IO35-1
+Removed Pin From Net: NetName=R16 Pin=IO36-1
+Removed Pin From Net: NetName=R8 Pin=IO37-1
+Removed Pin From Net: NetName=R12 Pin=IO38-1
+Removed Pin From Net: NetName=R4 Pin=IO39-1
+Removed Pin From Net: NetName=R11 Pin=IO40-1
+Removed Pin From Net: NetName=R3 Pin=IO41-1
+Removed Pin From Net: NetName=R10 Pin=IO42-1
+Removed Pin From Net: NetName=R2 Pin=IO43-1
+Removed Pin From Net: NetName=R9 Pin=IO44-1
+Removed Pin From Net: NetName=R1 Pin=IO45-1
+Removed Member From Class: ClassName=Reed Switches Member=IO12
+Removed Member From Class: ClassName=Reed Switches Member=IO13
+Removed Member From Class: ClassName=Reed Switches Member=IO14
+Removed Member From Class: ClassName=Reed Switches Member=IO15
+Removed Member From Class: ClassName=Reed Switches Member=IO16
+Removed Member From Class: ClassName=Reed Switches Member=IO17
+Removed Member From Class: ClassName=Reed Switches Member=IO18
+Removed Member From Class: ClassName=Reed Switches Member=IO19
+Removed Member From Class: ClassName=Reed Switches Member=IO20
+Removed Member From Class: ClassName=Reed Switches Member=IO21
+Removed Member From Class: ClassName=Reed Switches Member=IO22
+Removed Member From Class: ClassName=Reed Switches Member=IO23
+Removed Member From Class: ClassName=Reed Switches Member=IO24
+Removed Member From Class: ClassName=Reed Switches Member=IO25
+Removed Member From Class: ClassName=Reed Switches Member=IO26
+Removed Member From Class: ClassName=Reed Switches Member=IO27
+Removed Member From Class: ClassName=Shift Registers Member=IO29
+Removed Member From Class: ClassName=Shift Registers Member=IO30
+Removed Member From Class: ClassName=Shift Registers Member=IO31
+Removed Member From Class: ClassName=Shift Registers Member=IO32
+Removed Member From Class: ClassName=Shift Registers Member=IO34
+Removed Member From Class: ClassName=Shift Registers Member=IO35
+Removed Member From Class: ClassName=Shift Registers Member=IO36
+Removed Member From Class: ClassName=Shift Registers Member=IO37
+Removed Member From Class: ClassName=Shift Registers Member=IO38
+Removed Member From Class: ClassName=Shift Registers Member=IO39
+Removed Member From Class: ClassName=Shift Registers Member=IO40
+Removed Member From Class: ClassName=Shift Registers Member=IO41
+Removed Member From Class: ClassName=Shift Registers Member=IO42
+Removed Member From Class: ClassName=Shift Registers Member=IO43
+Removed Member From Class: ClassName=Shift Registers Member=IO44
+Removed Member From Class: ClassName=Shift Registers Member=IO45
