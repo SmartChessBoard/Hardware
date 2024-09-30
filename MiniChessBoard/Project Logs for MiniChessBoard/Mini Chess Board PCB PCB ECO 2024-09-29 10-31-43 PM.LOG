@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3V3 Pin=P20-1
+Removed Pin From Net: NetName=+5V Pin=P21-1
+Removed Member From Class: ClassName=WS2818B Member=P20
+Removed Member From Class: ClassName=WS2818B Member=P21
+Added Member To Class: ClassName=MCU and Power Man Member=Component J1 TYPE-C-31-M-17
