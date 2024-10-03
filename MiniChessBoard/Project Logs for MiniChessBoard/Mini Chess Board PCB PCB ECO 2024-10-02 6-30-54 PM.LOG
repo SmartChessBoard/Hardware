@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=IO3 NewDesignator=IO2
+Change Component Designator: OldDesignator=IO4 NewDesignator=IO3
+Change Component Designator: OldDesignator=IO5 NewDesignator=IO4
+Change Component Designator: OldDesignator=IO7 NewDesignator=IO5
+Change Component Designator: OldDesignator=IO8 NewDesignator=IO6
+Change Component Designator: OldDesignator=IO28 NewDesignator=IO7
+Change Component Designator: OldDesignator=IO33 NewDesignator=IO8
+Change Net Name : Old Net Name=NetIO33_1 New Net Name=NetIO8_1
+Added Member To Class: ClassName=MCU and Power Man Member=Component D2 LED 0805
+Added Rule: Name=Schematic Supply Nets_9
