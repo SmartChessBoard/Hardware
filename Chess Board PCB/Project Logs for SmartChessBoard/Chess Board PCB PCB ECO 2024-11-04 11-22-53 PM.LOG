@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-1
+Removed Pin From Net: NetName=RST_BRD Pin=U2-11
+Removed Pin From Net: NetName=CP Pin=U2-12
+Removed Pin From Net: NetName=nPE Pin=U2-13
+Removed Pin From Net: NetName=GND Pin=U2-14
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=GPIO_4 Pin=U2-26
+Removed Pin From Net: NetName=GPIO_3 Pin=U2-27
+Removed Pin From Net: NetName=GPIO_2 Pin=U2-28
+Removed Pin From Net: NetName=GPIO_1 Pin=U2-29
+Removed Pin From Net: NetName=GND Pin=U2-32
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Member From Class: ClassName=Microcontroller and Power Management Member=U2
+Added Pin To Net: NetName=NetU3_3 Pin=U3-3
+Added Net: Name=NetU3_3
+Added Pin To Net: NetName=NetU5_13 Pin=U5-13
+Added Net: Name=NetU5_13
+Added Pin To Net: NetName=NetU7_13 Pin=U7-13
+Added Net: Name=NetU7_13
+Added Pin To Net: NetName=NetU9_13 Pin=U9-13
+Added Net: Name=NetU9_13
+Added Pin To Net: NetName=NetU11_13 Pin=U11-13
+Added Net: Name=NetU11_13

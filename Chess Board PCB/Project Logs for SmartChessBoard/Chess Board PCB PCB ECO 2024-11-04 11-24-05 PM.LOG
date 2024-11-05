@@ -1,0 +1,31 @@
+Added Component: Designator=U?(ESPRESSIF_ESP32-DEVKITC-32UE - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "RF Semiconductors and Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.espressif.com/sites/default/files/documentation/espressif_products_ordering_information_en.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.espressif.com/sites/default/files/documentation/espressif_products_ordering_information_en.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/ESP32-DEVKITC-32UE-Espressif-Systems-datasheet-165560559.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/ESP32-DEVKITC-32UE-Espressif-Systems-datasheet-165560559.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-DEVKITC-32UE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=10 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "498"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1965-ESP32-DEVKITC-32UE-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=U?-1
+Added Pin To Net: NetName=NetU3_3 Pin=U?-7
+Added Pin To Net: NetName=NetU7_13 Pin=U?-8
+Added Pin To Net: NetName=NetU9_13 Pin=U?-9
+Added Pin To Net: NetName=NetU11_13 Pin=U?-10
+Added Pin To Net: NetName=RST_BRD Pin=U?-11
+Added Pin To Net: NetName=CP Pin=U?-12
+Added Pin To Net: NetName=nPE Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=NetU5_13 Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=GPIO_4 Pin=U?-26
+Added Pin To Net: NetName=GPIO_3 Pin=U?-27
+Added Pin To Net: NetName=GPIO_2 Pin=U?-28
+Added Pin To Net: NetName=GPIO_1 Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Member To Class: ClassName=Microcontroller and Power Management Member=Component U? ESP32 Dev. Board
