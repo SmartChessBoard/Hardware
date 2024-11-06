@@ -1,0 +1,47 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=P64
+Change Component Designator: OldDesignator=P5 NewDesignator=P65
+Change Component Designator: OldDesignator=P6 NewDesignator=P66
+Change Component Designator: OldDesignator=P7 NewDesignator=P67
+Added Pin To Net: NetName=+3V3 Pin=SW2-2
+Added Pin To Net: NetName=+3V3 Pin=SW3-2
+Added Pin To Net: NetName=+3V3 Pin=SW4-2
+Added Pin To Net: NetName=+3V3 Pin=SW5-2
+Added Pin To Net: NetName=+3V3 Pin=SW10-2
+Added Pin To Net: NetName=+3V3 Pin=SW11-2
+Added Pin To Net: NetName=+3V3 Pin=SW12-2
+Added Pin To Net: NetName=+3V3 Pin=SW13-2
+Added Pin To Net: NetName=+3V3 Pin=SW18-2
+Added Pin To Net: NetName=+3V3 Pin=SW19-2
+Added Pin To Net: NetName=+3V3 Pin=SW20-2
+Added Pin To Net: NetName=+3V3 Pin=SW21-2
+Added Pin To Net: NetName=+3V3 Pin=SW22-2
+Added Pin To Net: NetName=+3V3 Pin=SW23-2
+Added Pin To Net: NetName=+3V3 Pin=SW24-2
+Added Pin To Net: NetName=+3V3 Pin=SW26-2
+Added Pin To Net: NetName=+3V3 Pin=SW27-2
+Added Pin To Net: NetName=+3V3 Pin=SW28-2
+Added Pin To Net: NetName=+3V3 Pin=SW29-2
+Added Pin To Net: NetName=+3V3 Pin=SW34-2
+Added Pin To Net: NetName=+3V3 Pin=SW35-2
+Added Pin To Net: NetName=+3V3 Pin=SW36-2
+Added Pin To Net: NetName=+3V3 Pin=SW37-2
+Added Pin To Net: NetName=+3V3 Pin=SW39-2
+Added Pin To Net: NetName=+3V3 Pin=SW40-2
+Added Pin To Net: NetName=+3V3 Pin=SW42-2
+Added Pin To Net: NetName=+3V3 Pin=SW43-2
+Added Pin To Net: NetName=+3V3 Pin=SW44-2
+Added Pin To Net: NetName=+3V3 Pin=SW45-2
+Added Pin To Net: NetName=+3V3 Pin=SW46-2
+Added Pin To Net: NetName=+3V3 Pin=SW47-2
+Added Pin To Net: NetName=+3V3 Pin=SW50-2
+Added Pin To Net: NetName=+3V3 Pin=SW51-2
+Added Pin To Net: NetName=+3V3 Pin=SW52-2
+Added Pin To Net: NetName=+3V3 Pin=SW53-2
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetP64_1
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetP65_1
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetP66_1
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetP67_1
+Added Member To Class: ClassName=Reed Switches Member=Component P64 Probe_5019
+Added Member To Class: ClassName=Reed Switches Member=Component P65 Probe_5019
+Added Member To Class: ClassName=Reed Switches Member=Component P66 Probe_5019
+Added Member To Class: ClassName=Reed Switches Member=Component P67 Probe_5019

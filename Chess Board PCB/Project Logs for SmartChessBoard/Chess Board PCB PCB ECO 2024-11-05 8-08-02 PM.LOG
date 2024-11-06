@@ -1,0 +1,225 @@
+Removed Pin From Net: NetName=NetP4_1 Pin=P4-1
+Removed Pin From Net: NetName=NetP5_1 Pin=P5-1
+Removed Pin From Net: NetName=NetP6_1 Pin=P6-1
+Removed Pin From Net: NetName=NetP7_1 Pin=P7-1
+Removed Pin From Net: NetName=NetP8_1 Pin=P8-1
+Removed Pin From Net: NetName=NetP9_1 Pin=P9-1
+Removed Pin From Net: NetName=NetP10_1 Pin=P10-1
+Removed Pin From Net: NetName=NetP11_1 Pin=P11-1
+Removed Pin From Net: NetName=NetP12_1 Pin=P12-1
+Removed Pin From Net: NetName=NetP13_1 Pin=P13-1
+Removed Pin From Net: NetName=NetP14_1 Pin=P14-1
+Removed Pin From Net: NetName=NetP15_1 Pin=P15-1
+Removed Pin From Net: NetName=NetP16_1 Pin=P16-1
+Removed Pin From Net: NetName=NetP17_1 Pin=P17-1
+Removed Pin From Net: NetName=NetP18_1 Pin=P18-1
+Removed Pin From Net: NetName=NetP19_1 Pin=P19-1
+Removed Pin From Net: NetName=NetP20_1 Pin=P20-1
+Removed Pin From Net: NetName=NetP21_1 Pin=P21-1
+Removed Pin From Net: NetName=NetP22_1 Pin=P22-1
+Removed Pin From Net: NetName=NetP23_1 Pin=P23-1
+Removed Pin From Net: NetName=NetP24_1 Pin=P24-1
+Removed Pin From Net: NetName=NetP25_1 Pin=P25-1
+Removed Pin From Net: NetName=NetP26_1 Pin=P26-1
+Removed Pin From Net: NetName=NetP27_1 Pin=P27-1
+Removed Pin From Net: NetName=NetP28_1 Pin=P28-1
+Removed Pin From Net: NetName=NetP29_1 Pin=P29-1
+Removed Pin From Net: NetName=NetP30_1 Pin=P30-1
+Removed Pin From Net: NetName=NetP31_1 Pin=P31-1
+Removed Pin From Net: NetName=NetP32_1 Pin=P32-1
+Removed Pin From Net: NetName=NetP33_1 Pin=P33-1
+Removed Pin From Net: NetName=NetP34_1 Pin=P34-1
+Removed Pin From Net: NetName=NetP35_1 Pin=P35-1
+Removed Pin From Net: NetName=NetP36_1 Pin=P36-1
+Removed Pin From Net: NetName=NetP37_1 Pin=P37-1
+Removed Pin From Net: NetName=NetP38_1 Pin=P38-1
+Removed Pin From Net: NetName=NetP39_1 Pin=P39-1
+Removed Pin From Net: NetName=NetP40_1 Pin=P40-1
+Removed Pin From Net: NetName=NetP41_1 Pin=P41-1
+Removed Pin From Net: NetName=NetP42_1 Pin=P42-1
+Removed Pin From Net: NetName=NetP43_1 Pin=P43-1
+Removed Pin From Net: NetName=NetP44_1 Pin=P44-1
+Removed Pin From Net: NetName=NetP45_1 Pin=P45-1
+Removed Pin From Net: NetName=NetP46_1 Pin=P46-1
+Removed Pin From Net: NetName=NetP47_1 Pin=P47-1
+Removed Pin From Net: NetName=NetP48_1 Pin=P48-1
+Removed Pin From Net: NetName=NetP49_1 Pin=P49-1
+Removed Pin From Net: NetName=NetP50_1 Pin=P50-1
+Removed Pin From Net: NetName=NetP51_1 Pin=P51-1
+Removed Pin From Net: NetName=NetP52_1 Pin=P52-1
+Removed Pin From Net: NetName=NetP53_1 Pin=P53-1
+Removed Pin From Net: NetName=NetP54_1 Pin=P54-1
+Removed Pin From Net: NetName=NetP55_1 Pin=P55-1
+Removed Pin From Net: NetName=NetP56_1 Pin=P56-1
+Removed Pin From Net: NetName=NetP57_1 Pin=P57-1
+Removed Pin From Net: NetName=NetP58_1 Pin=P58-1
+Removed Pin From Net: NetName=NetP59_1 Pin=P59-1
+Removed Pin From Net: NetName=NetP60_1 Pin=P60-1
+Removed Pin From Net: NetName=NetP61_1 Pin=P61-1
+Removed Pin From Net: NetName=NetP62_1 Pin=P62-1
+Removed Pin From Net: NetName=NetP63_1 Pin=P63-1
+Removed Pin From Net: NetName=+3V3 Pin=SW2-2
+Removed Pin From Net: NetName=+3V3 Pin=SW3-2
+Removed Pin From Net: NetName=+3V3 Pin=SW4-2
+Removed Pin From Net: NetName=+3V3 Pin=SW5-2
+Removed Pin From Net: NetName=+3V3 Pin=SW10-2
+Removed Pin From Net: NetName=+3V3 Pin=SW11-2
+Removed Pin From Net: NetName=+3V3 Pin=SW12-2
+Removed Pin From Net: NetName=+3V3 Pin=SW13-2
+Removed Pin From Net: NetName=+3V3 Pin=SW18-2
+Removed Pin From Net: NetName=+3V3 Pin=SW19-2
+Removed Pin From Net: NetName=+3V3 Pin=SW20-2
+Removed Pin From Net: NetName=+3V3 Pin=SW21-2
+Removed Pin From Net: NetName=+3V3 Pin=SW22-2
+Removed Pin From Net: NetName=+3V3 Pin=SW23-2
+Removed Pin From Net: NetName=+3V3 Pin=SW24-2
+Removed Pin From Net: NetName=+3V3 Pin=SW26-2
+Removed Pin From Net: NetName=+3V3 Pin=SW27-2
+Removed Pin From Net: NetName=+3V3 Pin=SW28-2
+Removed Pin From Net: NetName=+3V3 Pin=SW29-2
+Removed Pin From Net: NetName=+3V3 Pin=SW34-2
+Removed Pin From Net: NetName=+3V3 Pin=SW35-2
+Removed Pin From Net: NetName=+3V3 Pin=SW36-2
+Removed Pin From Net: NetName=+3V3 Pin=SW37-2
+Removed Pin From Net: NetName=+3V3 Pin=SW38-2
+Removed Pin From Net: NetName=+3V3 Pin=SW39-2
+Removed Pin From Net: NetName=+3V3 Pin=SW40-2
+Removed Pin From Net: NetName=+3V3 Pin=SW42-2
+Removed Pin From Net: NetName=+3V3 Pin=SW43-2
+Removed Pin From Net: NetName=+3V3 Pin=SW44-2
+Removed Pin From Net: NetName=+3V3 Pin=SW45-2
+Removed Pin From Net: NetName=+3V3 Pin=SW46-2
+Removed Pin From Net: NetName=+3V3 Pin=SW47-2
+Removed Pin From Net: NetName=+3V3 Pin=SW48-2
+Removed Pin From Net: NetName=+3V3 Pin=SW50-2
+Removed Pin From Net: NetName=+3V3 Pin=SW51-2
+Removed Pin From Net: NetName=+3V3 Pin=SW52-2
+Removed Pin From Net: NetName=+3V3 Pin=SW53-2
+Removed Member From Class: ClassName=Reed Switches Member=P8
+Removed Member From Class: ClassName=Reed Switches Member=P9
+Removed Member From Class: ClassName=Reed Switches Member=P10
+Removed Member From Class: ClassName=Reed Switches Member=P11
+Removed Member From Class: ClassName=Reed Switches Member=P12
+Removed Member From Class: ClassName=Reed Switches Member=P13
+Removed Member From Class: ClassName=Reed Switches Member=P14
+Removed Member From Class: ClassName=Reed Switches Member=P15
+Removed Member From Class: ClassName=Reed Switches Member=P16
+Removed Member From Class: ClassName=Reed Switches Member=P17
+Removed Member From Class: ClassName=Reed Switches Member=P18
+Removed Member From Class: ClassName=Reed Switches Member=P19
+Removed Member From Class: ClassName=Reed Switches Member=P20
+Removed Member From Class: ClassName=Reed Switches Member=P21
+Removed Member From Class: ClassName=Reed Switches Member=P22
+Removed Member From Class: ClassName=Reed Switches Member=P23
+Removed Member From Class: ClassName=Reed Switches Member=P24
+Removed Member From Class: ClassName=Reed Switches Member=P25
+Removed Member From Class: ClassName=Reed Switches Member=P26
+Removed Member From Class: ClassName=Reed Switches Member=P27
+Removed Member From Class: ClassName=Reed Switches Member=P28
+Removed Member From Class: ClassName=Reed Switches Member=P29
+Removed Member From Class: ClassName=Reed Switches Member=P30
+Removed Member From Class: ClassName=Reed Switches Member=P31
+Removed Member From Class: ClassName=Reed Switches Member=P32
+Removed Member From Class: ClassName=Reed Switches Member=P33
+Removed Member From Class: ClassName=Reed Switches Member=P34
+Removed Member From Class: ClassName=Reed Switches Member=P35
+Removed Member From Class: ClassName=Reed Switches Member=P36
+Removed Member From Class: ClassName=Reed Switches Member=P37
+Removed Member From Class: ClassName=Reed Switches Member=P38
+Removed Member From Class: ClassName=Reed Switches Member=P39
+Removed Member From Class: ClassName=Reed Switches Member=P40
+Removed Member From Class: ClassName=Reed Switches Member=P41
+Removed Member From Class: ClassName=Reed Switches Member=P42
+Removed Member From Class: ClassName=Reed Switches Member=P43
+Removed Member From Class: ClassName=Reed Switches Member=P44
+Removed Member From Class: ClassName=Reed Switches Member=P45
+Removed Member From Class: ClassName=Reed Switches Member=P46
+Removed Member From Class: ClassName=Reed Switches Member=P47
+Removed Member From Class: ClassName=Reed Switches Member=P48
+Removed Member From Class: ClassName=Reed Switches Member=P49
+Removed Member From Class: ClassName=Reed Switches Member=P50
+Removed Member From Class: ClassName=Reed Switches Member=P51
+Removed Member From Class: ClassName=Reed Switches Member=P52
+Removed Member From Class: ClassName=Reed Switches Member=P53
+Removed Member From Class: ClassName=Reed Switches Member=P54
+Removed Member From Class: ClassName=Reed Switches Member=P55
+Removed Member From Class: ClassName=Reed Switches Member=P56
+Removed Member From Class: ClassName=Reed Switches Member=P57
+Removed Member From Class: ClassName=Reed Switches Member=P58
+Removed Member From Class: ClassName=Reed Switches Member=P59
+Removed Member From Class: ClassName=Reed Switches Member=P60
+Removed Member From Class: ClassName=Reed Switches Member=P61
+Removed Member From Class: ClassName=Reed Switches Member=P62
+Removed Member From Class: ClassName=Reed Switches Member=P63
+Removed Member From Class: ClassName=Reed Switches Member=P64
+Removed Member From Class: ClassName=Reed Switches Member=P65
+Removed Member From Class: ClassName=Reed Switches Member=P66
+Removed Member From Class: ClassName=Reed Switches Member=P67
+Change Component Designator: OldDesignator=P64 NewDesignator=P4
+Change Component Designator: OldDesignator=P65 NewDesignator=P5
+Change Component Designator: OldDesignator=P66 NewDesignator=P6
+Change Component Designator: OldDesignator=P67 NewDesignator=P7
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetP9_1 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetP10_1 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetP11_1 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetP12_1 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetP13_1 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetP14_1 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetP15_1 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetP17_1 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetP18_1 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetP19_1 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetP20_1 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetP21_1 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetP22_1 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetP23_1 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetP24_1 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetP25_1 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetP26_1 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetP27_1 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetP28_1 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetP29_1 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetP30_1 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetP31_1 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetP32_1 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetP33_1 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetP34_1 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetP35_1 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetP36_1 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetP37_1 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetP38_1 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetP39_1 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetP40_1 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetP41_1 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetP42_1 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetP43_1 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetP44_1 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NetP45_1 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetP46_1 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetP47_1 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetP48_1 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetP49_1 New Net Name=NetR51_2
+Change Net Name : Old Net Name=NetP50_1 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetP51_1 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetP52_1 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NetP53_1 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetP54_1 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetP55_1 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetP56_1 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetP57_1 New Net Name=NetR59_2
+Change Net Name : Old Net Name=NetP58_1 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetP59_1 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetP60_1 New Net Name=NetR62_2
+Change Net Name : Old Net Name=NetP61_1 New Net Name=NetR63_2
+Change Net Name : Old Net Name=NetP62_1 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetP63_1 New Net Name=NetR65_2
+Change Net Name : Old Net Name=NetP64_1 New Net Name=NetP4_1
+Change Net Name : Old Net Name=NetP65_1 New Net Name=NetP5_1
+Change Net Name : Old Net Name=NetP66_1 New Net Name=NetP6_1
+Change Net Name : Old Net Name=NetP67_1 New Net Name=NetP7_1
